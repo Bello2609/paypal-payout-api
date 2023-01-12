@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@paypal/payouts-sdk": "^1.1.1",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2"
   }
 }
