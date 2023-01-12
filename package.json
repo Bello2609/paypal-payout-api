@@ -1,0 +1,15 @@
+{
+  "name": "paypal",
+  "version": "1.0.0",
+  "description": "an api to accept and receive payment with paypal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bello hadi and john",
+  "license": "ISC",
+  "dependencies": {
+    "@paypal/payouts-sdk": "^1.1.1",
+    "express": "^4.18.2"
+  }
+}
